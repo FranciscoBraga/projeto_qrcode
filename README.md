@@ -22,10 +22,12 @@ Ao executar o script index.js, você será solicitado a escolher uma das opçõe
 Selecione uma opção: 
 Digite 1 para gerar um QR Code ou 2 para gerar uma senha. O script chamará o serviço correspondente e processará a sua solicitação.
 
-Dependências
-prompt: Biblioteca para interação com o usuário via terminal.
-chalk:Biblioteca que perminte que os caracteres fiquem coloridos no terminal
-qrcode-terminal: Biblioteca que permite gerar qrcode no terminal
+## Dependências
+
+- prompt: Biblioteca para interação com o usuário via terminal.
+- chalk:Biblioteca que perminte que os caracteres fiquem coloridos no terminal.
+- qrcode-terminal: Biblioteca que permite gerar qrcode no terminal.
+
 
 Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
